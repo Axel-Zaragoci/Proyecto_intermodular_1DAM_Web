@@ -13,22 +13,44 @@ h1 {
 }
 
 nav {
-    width: 30%;
+    width: 40%;
 }
 
-nav > a {
+nav > ul {
+    list-style: none;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav > ul > li {
+    width: 100%;
+    text-align: center;
+}
+
+nav > ul > li > a {
     color: #ffffff;
     margin-left: 3%;
     padding: 2%;
     text-decoration: none;
     border-radius: 7px;
+    transition: .5s;
+    font-family: Helvetica, sans-serif;
 }
 
 .nav-button {
     background-color: #2272FF;
 }
 
-nav > a:hover {
-    color: #cbcbcb;
-    box-shadow: 0 0 5px 0 #cbcbcb;
+nav > ul > li > a:hover {
+    color: #2272FF;
+    letter-spacing: .5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav > ul > li > a.nav-button:hover {
+    color: #2272FF;
+    background-color: #cbcbcb;
+    padding: 3% 2%;
 }
