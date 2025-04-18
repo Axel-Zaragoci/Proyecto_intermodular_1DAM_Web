@@ -2,12 +2,14 @@ body {
     margin: 0;
 }
 
+/*Sección 1*/
 #index > .hero-section {
     display: flex;
     margin: 2% 7%;
-    padding-bottom: 2%;
+    padding: 5% 0;
     border-bottom: 1px solid rgba(29,29,29,.1);
     text-align: justify;
+
 }
 
 #index > .hero-section > article {
@@ -19,24 +21,29 @@ body {
     color: #2272FF;
     font-size: 30px;
     margin-bottom: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #index > section > article > p {
     margin: 2% 0 5%;
+    font-family: Helvetica, sans-serif;
 }
 
 #index > section > article > a {
     color: #ffffff;
     text-decoration: none;
     background-color: #2272FF;
-    padding: 2%;
+    padding: 1.5% 2%;
+    font-family: Helvetica, sans-serif;
     border-radius: 7px;
+    transition: .5s;
 }
 
 #index > section > img {
     height: 300px;
 }
 
+/*Sección 2*/
 #index > section {
     text-align: center;
 }
@@ -53,26 +60,42 @@ body {
 #index > section > div > article {
     width: 27%;
     padding: 1%;
+    transition: .5s;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .2);
 }
 
 #index > section > div > article > img {
     height: 300px;
 }
 
+#index > section > div > article > h3 {
+    color: #2272FF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#index > section > div > article > p {
+    font-family: Helvetica, sans-serif;
+}
+
 #index > section > div > article > a {
     color: #ffffff;
     text-decoration: none;
     background-color: #2272FF;
-    padding: 2%;
+    padding: 1.5% 2%;
+    font-family: Helvetica, sans-serif;
     border-radius: 7px;
+    transition: .5s;
 }
 
-#index > section > article > a:hover {
+/*Animaciones*/
+#index > section > article > a:hover, #index > section > div > article > a:hover {
     letter-spacing: .5px;
-    box-shadow: 0 0 5px 0 #000000;
+    color: #2272FF;
+    background-color: #1d1d1d;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 #index > section > div > article:hover {
     width: 27.7%;
-    border: 1px solid rgba(0,0,0,.1);
 }
