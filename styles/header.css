@@ -1,0 +1,34 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10%;
+    width: 80%;
+    background-color: #1d1d1d;
+}
+
+h1 {
+    color: #2272FF;
+    font-size: 35px;
+}
+
+nav {
+    width: 30%;
+}
+
+nav > a {
+    color: #ffffff;
+    margin-left: 3%;
+    padding: 2%;
+    text-decoration: none;
+    border-radius: 7px;
+}
+
+.nav-button {
+    background-color: #2272FF;
+}
+
+nav > a:hover {
+    color: #cbcbcb;
+    box-shadow: 0 0 5px 0 #cbcbcb;
+}
