@@ -1,3 +1,4 @@
+/*Footer general*/
 footer {
     display: flex;
     justify-content: space-between;
@@ -7,30 +8,40 @@ footer {
     margin-top: 2%;
 }
 
+/*Columna izquierda*/
 footer > article > h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #2272FF;
 }
 
 footer > article > p {
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
     color: #ffffff;
     margin: 6px 0;
 }
 
 footer > article > a {
+    font-family: Helvetica, sans-serif;
     color: #ffffff;
     text-decoration: none;
 }
 
+/*Columna central*/
 footer > article > nav {
     width: 100%;
 }
 
 footer > article > nav > a {
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
     display: block;
     margin: 6px 0;
     width: fit-content;
 }
 
+/*Columna derecha*/
 footer > article > div {
     display: flex;
     justify-content: space-evenly;
@@ -48,13 +59,14 @@ footer > article > div > #instagram:hover {
 }
 
 footer > article > div > #x:hover {
-    color: #e5e5e5;
+    color: #cbcbcb;
 }
 
 footer > article > div #tiktok:hover {
     color: #00f2ea;
 }
 
-footer > article > a:hover {
+footer a:hover {
     text-decoration: underline;
+    color: #2272FF;
 }
