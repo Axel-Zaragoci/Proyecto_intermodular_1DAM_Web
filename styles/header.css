@@ -35,7 +35,7 @@ nav > ul > li > a {
     padding: 2%;
     text-decoration: none;
     border-radius: 7px;
-    transition: .5s;
+    transition: .3s;
     font-family: Helvetica, sans-serif;
 }
 
@@ -52,6 +52,7 @@ nav > ul > li > a:hover {
 
 nav > ul > li > a.nav-button:hover {
     color: #2272FF;
-    background-color: #cbcbcb;
+    background-color: transparent;
+    border: 1px solid #2272FF;
     padding: 3% 2%;
 }
