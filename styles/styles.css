@@ -2,6 +2,9 @@ body {
     margin: 0;
 }
 
+/*******************************************************************
+**************************** INDEX.HTML ****************************
+*******************************************************************/
 /*Sección 1*/
 #index > .hero-section {
     display: flex;
@@ -99,4 +102,133 @@ body {
 
 #index > section > div > article:hover {
     transform: scale(1.05);
+}
+
+/*******************************************************************
+*************************** CONTACTO.HTML **************************
+*******************************************************************/
+#contacto {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#contacto > section {
+    width: 40%;
+    margin: 3% 0;
+}
+
+#contacto > section > h2 {
+    color: #2272FF;
+    font-size: 30px;
+    margin-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Seccion 1*/
+#contacto > section > form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#nameInput, #emailInput, #messageTextarea {
+    border: 1px solid rgba(29,29,29,.4);
+    padding: 12px 2px;
+    text-align: center;
+    margin-bottom: 3px;
+    font-size: 15px;
+    border-radius: 3px;
+    width: 90%;
+    font-family: Helvetica, sans-serif;
+}
+
+#nameInput::placeholder, #emailInput::placeholder, #messageTextarea::placeholder {
+    font-family: Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+#nameLabel, #emailLabel, #messageLabel {
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+    color: #2272FF;
+    margin-bottom: 20px;
+    visibility: hidden;
+}
+
+#send {
+    width: fit-content;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #2272FF;
+    padding: 1.5% 2%;
+    font-family: Helvetica, sans-serif;
+    border-radius: 7px;
+    transition: .3s;
+    border: none;
+    font-size: 15px;
+}
+
+/*Seccion 2*/
+#contacto > section > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+#contacto > section > div > i {
+    color: #2272FF;
+    font-size: 30px;
+    margin-right: 5px;
+}
+
+#contacto > section > div > a {
+    margin-left: 5px;
+    text-decoration: none;
+    color: #000000;
+    border-bottom: 1px solid rgba(0, 0, 0, .2);
+}
+
+/*Animaciones*/
+#nameInput:focus ~ #nameLabel {
+    visibility: visible;
+}
+
+#nameInput:focus::placeholder {
+    color: transparent;
+}
+
+#nameInput:focus ~ #nameLabel {
+    visibility: visible;
+}
+
+#emailInput:focus ~ #emailLabel {
+    visibility: visible;
+}
+
+#emailInput:focus::placeholder {
+    color: transparent;
+}
+
+#messageTextarea:focus ~ #messageLabel {
+    visibility: visible;
+}
+
+#messageTextarea:focus::placeholder {
+    color: transparent;
+}
+
+#send:hover {
+    letter-spacing: .5px;
+    color: #2272FF;
+    background-color: transparent;
+    border: 1px solid #2272FF;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#contacto > section > div > a:hover {
+    color: #2272FF;
+    border-bottom: 1px solid rgba(34, 114, 255, .2);
 }
