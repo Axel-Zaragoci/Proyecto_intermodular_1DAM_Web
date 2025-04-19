@@ -1,0 +1,72 @@
+/*Footer general*/
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 3% 10%;
+    width: 80%;
+    background-color: #1d1d1d;
+    margin-top: 5%;
+}
+
+/*Columna izquierda*/
+footer > article > h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2272FF;
+}
+
+footer > article > p {
+    font-family: Helvetica, sans-serif;
+    font-size: 15px;
+    color: #ffffff;
+    margin: 6px 0;
+}
+
+footer > article > a {
+    font-family: Helvetica, sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*Columna central*/
+footer > article > nav {
+    width: 100%;
+}
+
+footer > article > nav > a {
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    display: block;
+    margin: 6px 0;
+    width: fit-content;
+}
+
+/*Columna derecha*/
+footer > article > div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer > article > div > a {
+    width: fit-content;
+    font-size: 30px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+footer > article > div > #instagram:hover {
+    color: #E1306C;
+}
+
+footer > article > div > #x:hover {
+    color: #cbcbcb;
+}
+
+footer > article > div #tiktok:hover {
+    color: #00f2ea;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: #2272FF;
+}
