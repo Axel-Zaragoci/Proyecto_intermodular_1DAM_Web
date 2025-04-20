@@ -14,7 +14,7 @@ h1 {
 }
 
 nav {
-    width: 40%;
+    width: 45%;
 }
 
 nav > ul {
@@ -32,9 +32,9 @@ nav > ul > li {
 nav > ul > li > a {
     color: #ffffff;
     margin-left: 3%;
-    padding: 2%;
+    padding: 4%;
     text-decoration: none;
-    border-radius: 7px;
+    border-radius: 3px;
     transition: .3s;
     font-family: Helvetica, sans-serif;
 }
@@ -54,5 +54,5 @@ nav > ul > li > a.nav-button:hover {
     color: #2272FF;
     background-color: transparent;
     border: 1px solid #2272FF;
-    padding: 3% 2%;
+    padding: 5% 3%;
 }
