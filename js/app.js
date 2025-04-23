@@ -1,13 +1,13 @@
 async function fetchDatos() {
-    const datos = await fetch('./json/data.json');
-    const json = datos.json;
-    return json;
+    const datos = await fetch('./js/json/data.json');
+    const json = await datos.json();
+    return await json;
 }
 
 async function construirHTML() {
-    const data = await fetchDatos();
+    const datos = await fetchDatos();
 
-    const libros = data.map(({titulo, paginas, ano_publicacion, saga, autor, editorial}) => {
+    const libros = datos.map(({titulo, paginas, ano_publicacion, saga, autor, editorial}) => {
         const article = document.createElement("article");
         const img = document.createElement("img");
         const h2 = document.createElement("h2");
