@@ -1,6 +1,5 @@
 [
     {
-      "libro": "Arcanum ilimitado",
       "editorial": "Penguin Random House",
       "titulo": "Arcanum ilimitado",
       "paginas": 782,
@@ -9,7 +8,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Arena blanca omnibús",
       "editorial": "Penguin Random House",
       "titulo": "Arena blanca omnibús",
       "paginas": 489,
@@ -18,7 +16,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Aleación de ley",
       "editorial": "Penguin Random House",
       "titulo": "Aleación de ley",
       "paginas": 351,
@@ -27,7 +24,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Sombras de identidad",
       "editorial": "Penguin Random House",
       "titulo": "Sombras de identidad",
       "paginas": 438,
@@ -36,7 +32,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Brazales de duelo",
       "editorial": "Penguin Random House",
       "titulo": "Brazales de duelo",
       "paginas": 508,
@@ -45,7 +40,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "El metal perdido",
       "editorial": "Penguin Random House",
       "titulo": "El metal perdido",
       "paginas": 635,
@@ -54,7 +48,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "El camino de los reyes",
       "editorial": "Tor",
       "titulo": "El camino de los reyes",
       "paginas": 1258,
@@ -63,7 +56,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Palabras radiantes",
       "editorial": "Tor",
       "titulo": "Palabras radiantes",
       "paginas": 1310,
@@ -72,7 +64,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Juramentada",
       "editorial": "Tor",
       "titulo": "Juramentada",
       "paginas": 1306,
@@ -81,7 +72,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Esquirla del amanecer",
       "editorial": "Penguin Random House",
       "titulo": "Esquirla del amanecer",
       "paginas": 253,
@@ -90,7 +80,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "El ritmo de la guerra",
       "editorial": "Tor",
       "titulo": "El ritmo de la guerra",
       "paginas": 1230,
@@ -99,7 +88,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Viento y verdad",
       "editorial": "Penguin Random House",
       "titulo": "Viento y verdad",
       "paginas": 1404,
@@ -108,7 +96,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "El hombre iluminado",
       "editorial": "Penguin Random House",
       "titulo": "El hombre iluminado",
       "paginas": 535,
@@ -117,7 +104,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "El aliento de los dioses",
       "editorial": "Penguin Random House",
       "titulo": "El aliento de los dioses",
       "paginas": 717,
@@ -126,7 +112,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Trenza del mar esmeralda",
       "editorial": "Librairie Generale Française",
       "titulo": "Trenza del mar esmeralda",
       "paginas": 647,
@@ -135,7 +120,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "El rithmatista",
       "editorial": "Penguin Random House",
       "titulo": "El rithmatista",
       "paginas": 440,
@@ -144,16 +128,14 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Legión: las múltiples vidas de stephen leeds",
       "editorial": "Penguin Random House",
-      "titulo": "Legión: las múltiples vidas de stephen leeds",
+      "titulo": "Legión las múltiples vidas de stephen leeds",
       "paginas": 350,
       "ano_publicacion": 2019,
       "saga": "No pertenece a ninguna",
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Escuadrón",
       "editorial": "Penguin Random House",
       "titulo": "Escuadrón",
       "paginas": 521,
@@ -162,7 +144,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Estelar",
       "editorial": "Penguin Random House",
       "titulo": "Estelar",
       "paginas": 453,
@@ -171,7 +152,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Citónica",
       "editorial": "Penguin Random House",
       "titulo": "Citónica",
       "paginas": 451,
@@ -180,16 +160,14 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Escuadrón cielo: la colección",
       "editorial": "Penguin Random House",
-      "titulo": "Escuadrón cielo: la colección",
+      "titulo": "Escuadrón cielo la colección",
       "paginas": 692,
       "ano_publicacion": 2022,
       "saga": "Cytoverse",
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Desafiante",
       "editorial": "Penguin Random House",
       "titulo": "Desafiante",
       "paginas": 456,
@@ -198,7 +176,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Alcatraz contra los bibliotecarios malvados",
       "editorial": "Penguin Random House",
       "titulo": "Alcatraz contra los bibliotecarios malvados",
       "paginas": 319,
@@ -207,7 +184,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Los huesos del escriba",
       "editorial": "Penguin Random House",
       "titulo": "Los huesos del escriba",
       "paginas": 326,
@@ -216,7 +192,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Los caballeros de crisalia",
       "editorial": "Penguin Random House",
       "titulo": "Los caballeros de crisalia",
       "paginas": 317,
@@ -225,7 +200,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Las lentes fragmentadas",
       "editorial": "Penguin Random House",
       "titulo": "Las lentes fragmentadas",
       "paginas": 301,
@@ -234,7 +208,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "El talento oscuro",
       "editorial": "Penguin Random House",
       "titulo": "El talento oscuro",
       "paginas": 283,
@@ -243,7 +216,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Bastille contra los bibliotecarios malvados",
       "editorial": "Penguin Random House",
       "titulo": "Bastille contra los bibliotecarios malvados",
       "paginas": 235,
@@ -252,7 +224,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Steelheart",
       "editorial": "Penguin Random House",
       "titulo": "Steelheart",
       "paginas": 408,
@@ -261,7 +232,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Firefight",
       "editorial": "Penguin Random House",
       "titulo": "Firefight",
       "paginas": 435,
@@ -270,7 +240,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Calamity",
       "editorial": "Penguin Random House",
       "titulo": "Calamity",
       "paginas": 413,
@@ -279,7 +248,6 @@
       "autor": "Brandon Sanderson"
     },
     {
-      "libro": "Elantris",
       "editorial": "Penguin Random House",
       "titulo": "Elantris",
       "paginas": 794,

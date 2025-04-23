@@ -31,7 +31,7 @@ async function construirHTML() {
         Psaga.textContent = `Saga: ${saga}`;
         Ppaginas.textContent = `Páginas: ${paginas}`;
         Ppublicacion.textContent = `Año de publicación: ${ano_publicacion}`;
-        img.src = `./images/coleccion/${titulo}.png`;
+        img.src = `./images/coleccion/${titulo}.jpg`;
 
         return article;
     });
@@ -42,6 +42,7 @@ async function construirHTML() {
 async function añadirHTML() {
     const contenedor = document.querySelector('#contenedor');
     const libros = await construirHTML();
+    console.log(libros);
     libros.forEach(libro => {
         contenedor.appendChild(libro);
     });
