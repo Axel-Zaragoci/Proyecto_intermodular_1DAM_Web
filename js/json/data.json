@@ -1,0 +1,258 @@
+[
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Arcanum ilimitado",
+      "paginas": 782,
+      "ano_publicacion": 2016,
+      "saga": "Cosmere",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Arena blanca omnibús",
+      "paginas": 489,
+      "ano_publicacion": 2022,
+      "saga": "Cosmere",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Aleación de ley",
+      "paginas": 351,
+      "ano_publicacion": 2011,
+      "saga": "Mistborn",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Sombras de identidad",
+      "paginas": 438,
+      "ano_publicacion": 2015,
+      "saga": "Mistborn",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Brazales de duelo",
+      "paginas": 508,
+      "ano_publicacion": 2016,
+      "saga": "Mistborn",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "El metal perdido",
+      "paginas": 635,
+      "ano_publicacion": 2022,
+      "saga": "Mistborn",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Tor",
+      "titulo": "El camino de los reyes",
+      "paginas": 1258,
+      "ano_publicacion": 2010,
+      "saga": "Stormlight archive",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Tor",
+      "titulo": "Palabras radiantes",
+      "paginas": 1310,
+      "ano_publicacion": 2014,
+      "saga": "Stormlight archive",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Tor",
+      "titulo": "Juramentada",
+      "paginas": 1306,
+      "ano_publicacion": 2017,
+      "saga": "Stormlight archive",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Esquirla del amanecer",
+      "paginas": 253,
+      "ano_publicacion": 2020,
+      "saga": "Stormlight archive",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Tor",
+      "titulo": "El ritmo de la guerra",
+      "paginas": 1230,
+      "ano_publicacion": 2020,
+      "saga": "Stormlight archive",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Viento y verdad",
+      "paginas": 1404,
+      "ano_publicacion": 2024,
+      "saga": "Stormlight archive",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "El hombre iluminado",
+      "paginas": 535,
+      "ano_publicacion": 2023,
+      "saga": "Cosmere",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "El aliento de los dioses",
+      "paginas": 717,
+      "ano_publicacion": 2009,
+      "saga": "Cosmere",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Librairie Generale Française",
+      "titulo": "Trenza del mar esmeralda",
+      "paginas": 647,
+      "ano_publicacion": 2023,
+      "saga": "Cosmere",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "El rithmatista",
+      "paginas": 440,
+      "ano_publicacion": 2013,
+      "saga": "No pertenece a ninguna",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Legión las múltiples vidas de stephen leeds",
+      "paginas": 350,
+      "ano_publicacion": 2019,
+      "saga": "No pertenece a ninguna",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Escuadrón",
+      "paginas": 521,
+      "ano_publicacion": 2018,
+      "saga": "Cytoverse",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Estelar",
+      "paginas": 453,
+      "ano_publicacion": 2020,
+      "saga": "Cytoverse",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Citónica",
+      "paginas": 451,
+      "ano_publicacion": 2021,
+      "saga": "Cytoverse",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Escuadrón cielo la colección",
+      "paginas": 692,
+      "ano_publicacion": 2022,
+      "saga": "Cytoverse",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Desafiante",
+      "paginas": 456,
+      "ano_publicacion": 2023,
+      "saga": "Cytoverse",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Alcatraz contra los bibliotecarios malvados",
+      "paginas": 319,
+      "ano_publicacion": 2007,
+      "saga": "Alcatraz contra los bibliotecarios malvados",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Los huesos del escriba",
+      "paginas": 326,
+      "ano_publicacion": 2016,
+      "saga": "Alcatraz contra los bibliotecarios malvados",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Los caballeros de crisalia",
+      "paginas": 317,
+      "ano_publicacion": 2016,
+      "saga": "Alcatraz contra los bibliotecarios malvados",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Las lentes fragmentadas",
+      "paginas": 301,
+      "ano_publicacion": 2017,
+      "saga": "Alcatraz contra los bibliotecarios malvados",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "El talento oscuro",
+      "paginas": 283,
+      "ano_publicacion": 2017,
+      "saga": "Alcatraz contra los bibliotecarios malvados",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Bastille contra los bibliotecarios malvados",
+      "paginas": 235,
+      "ano_publicacion": 2022,
+      "saga": "Alcatraz contra los bibliotecarios malvados",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Steelheart",
+      "paginas": 408,
+      "ano_publicacion": 2013,
+      "saga": "Reckoners",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Firefight",
+      "paginas": 435,
+      "ano_publicacion": 2015,
+      "saga": "Reckoners",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Calamity",
+      "paginas": 413,
+      "ano_publicacion": 2016,
+      "saga": "Reckoners",
+      "autor": "Brandon Sanderson"
+    },
+    {
+      "editorial": "Penguin Random House",
+      "titulo": "Elantris",
+      "paginas": 794,
+      "ano_publicacion": 2005,
+      "saga": "Cosmere",
+      "autor": "Brandon Sanderson"
+    }
+]
