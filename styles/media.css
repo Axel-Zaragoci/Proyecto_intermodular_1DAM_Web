@@ -50,4 +50,8 @@
     #contacto > section:last-child {
         margin-bottom: 15%;
     }
+
+    #contenedor {
+        flex-direction: column;
+    }
 }
