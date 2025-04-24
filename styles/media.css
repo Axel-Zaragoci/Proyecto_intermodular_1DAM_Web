@@ -73,4 +73,29 @@
     nav > ul > li > a {
         font-size: 20px;
     }
+
+    footer {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    footer > article {
+        margin-bottom: 3%;
+    }
+
+    footer > article > h2 {
+        font-size: 40px;
+    }
+
+    footer > article > p {
+        font-size: 20px;
+    }
+
+    footer > article > nav > a {
+        width: 100%;
+    }
+
+    footer > article > div > a {
+        font-size: 60px;
+    }
 }
