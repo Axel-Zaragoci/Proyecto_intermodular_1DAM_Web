@@ -1,0 +1,28 @@
+@media (max-width: 1000px) {
+    #index > .hero-section {
+        flex-direction: column;
+    }
+
+    #index > .hero-section > img {
+        display: none;
+    }
+
+    #index > section > div {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #index > section > div > article {
+        width: 80%;
+        padding-bottom: 3%;
+        margin: 5% 0;
+    }
+
+    #index > .hero-section > article > h2, #index > section > h2 {
+        font-size: 70px;
+    }
+
+    #index > section > div > article > img {
+        height: 150%;
+    }
+}
