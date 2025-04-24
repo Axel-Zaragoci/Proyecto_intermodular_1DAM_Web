@@ -25,4 +25,29 @@
     #index > section > div > article > img {
         height: 150%;
     }
+
+    #contacto {
+        flex-direction: column;
+    }
+
+    #contacto > section {
+        width: 100%;
+    }
+
+    #contacto > section > h2 {
+        margin-bottom: 0;
+    }
+
+    #contacto > section:first-child {
+        margin-top: 10%;
+    }
+
+    #contacto iframe {
+        width: 500px;
+        height: 500px;
+    }
+
+    #contacto > section:last-child {
+        margin-bottom: 15%;
+    }
 }
