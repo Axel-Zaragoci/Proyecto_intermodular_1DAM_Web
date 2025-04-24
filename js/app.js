@@ -42,7 +42,6 @@ async function construirHTML() {
 async function añadirHTML() {
     const contenedor = document.querySelector('#contenedor');
     const libros = await construirHTML();
-    console.log(libros);
     libros.forEach(libro => {
         contenedor.appendChild(libro);
     });
