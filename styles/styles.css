@@ -236,3 +236,43 @@ iframe {
     color: #2272FF;
     border-bottom: 1px solid rgba(34, 114, 255, .2);
 }
+
+/*******************************************************************
+*************************** CONTACTO.HTML **************************
+*******************************************************************/
+#contenedor {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 3% 0;
+}
+
+#contenedor article {
+    flex: 0 1 35%;
+    text-align: center;
+    margin: 2% 0;
+    padding: 2% 0;
+    transition: .5s;
+}
+
+#contenedor img {
+    width: 60%;
+}
+
+#contenedor h2 {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2272FF;
+}
+
+#contenedor p {
+    margin: 0;   
+    font-family: Helvetica, sans-serif;
+}
+
+/* Animaciones */
+#contenedor article:hover {
+    transform: scale(105%);
+    box-shadow: 0 0 5px 0 rgba(29,29,29,.1);
+}
