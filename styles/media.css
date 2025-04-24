@@ -1,6 +1,11 @@
-@media (max-width: 1000px) {
+@media (max-width: 980px) {
     #index > .hero-section {
         flex-direction: column;
+    }
+
+    #index > .hero-section > article {
+        width: 100%;
+        text-align: center;
     }
 
     #index > .hero-section > img {
@@ -23,7 +28,7 @@
     }
 
     #index > section > div > article > img {
-        height: 150%;
+        height: 75%;
     }
 
     #contacto {
