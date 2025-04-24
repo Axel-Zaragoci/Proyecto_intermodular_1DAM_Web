@@ -54,4 +54,23 @@
     #contenedor {
         flex-direction: column;
     }
+
+    header {
+        flex-direction: column;
+        justify-content: center;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+
+    nav {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    nav > ul > li > a {
+        font-size: 20px;
+    }
 }
