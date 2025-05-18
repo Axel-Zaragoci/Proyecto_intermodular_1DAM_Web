@@ -1,12 +1,10 @@
-async function fetchDatos() {
-    const datos = await fetch('./js/json/data.json');
-    const json = await datos.json();
-    return await json;
+function obtenerDatos() {
+    return JSON.parse(localStorage.getItem('libros'));
 }
 
-async function construirHTML() {
-    const datos = await fetchDatos();
-
+function construirHTML() {
+    const datos = obtenerDatos();
+    
     const libros = datos.map(({titulo, paginas, ano_publicacion, saga, autor, editorial}) => {
         const article = document.createElement("article");
         const img = document.createElement("img");
